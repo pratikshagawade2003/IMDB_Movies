@@ -1,6 +1,6 @@
-Project Title: Sentiment Analysis on IMDb Movie Reviews
+##Project Title: Sentiment Analysis on IMDb Movie Reviews
 
-Project Summary:
+##Project Summary:
 
 In this project, I worked on sentiment analysis using the IMDb movie reviews dataset. The goal of the project was to understand whether a movie review expresses a positive or negative opinion.
 
