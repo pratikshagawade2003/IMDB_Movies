@@ -1,6 +1,6 @@
-##Project Title: Sentiment Analysis on IMDb Movie Reviews
+## Project Title: Sentiment Analysis on IMDb Movie Reviews
 
-##Project Summary:
+## Project Summary:
 
 In this project, I worked on sentiment analysis using the IMDb movie reviews dataset. The goal of the project was to understand whether a movie review expresses a positive or negative opinion.
 
@@ -11,3 +11,14 @@ Next, I removed punctuation marks, special characters, and chat words (slang) to
 After cleaning, the text was tokenized, which means splitting sentences into individual words. To further improve the quality of text, stemming and lemmatization were applied to reduce words to their root or base form. Spelling correction was tested as an optional step, but it was slow and used only when needed.
 
 Finally, the processed data was used to build a sentiment analysis model that classifies movie reviews as positive or negative. This project helped me understand text preprocessing, NLP techniques, and how to work with real-world unstructured data.
+
+
+## What I Learned from This Project:
+
+How to clean and preprocess text data
+
+Importance of text normalization in NLP
+
+Handling emojis, slang, and noisy text
+
+Basics of sentiment analysis using machine learning
